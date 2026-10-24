@@ -1,0 +1,6 @@
+module.exports = Object.freeze({
+  NAME_MAX_LENGTH: 100,
+  EMAIL_MAX_LENGTH: 150,
+  LICENSE_NUMBER_MAX_LENGTH: 30,
+  TAX_ID_MAX_LENGTH: 30
+});
